@@ -1,0 +1,27 @@
+#ifndef CONFIG
+#define CONFIG
+
+#define FENETRE_LARGEUR 1200
+#define FENETRE_HAUTEUR 900
+
+#define SCAN_X_MAX 180
+#define SCAN_X_MIN -179
+#define SCAN_Y_MAX 70
+#define SCAN_Y_MIN -70
+#define MAX_GRAF 200000
+#define GRAF_PER_FRAME_SPRAY 25
+#define GRAF_SPRAY_DENSITY_X 12000
+#define GRAF_SPRAY_DENSITY_Y 12000
+#define GRAF_PER_FRAME_BOMB 200
+#define GRAF_BOMB_SPACING_X 1
+#define GRAF_BOMB_SPACING_Y 1
+
+#define PLAYER_SPEED 5.0f
+#define FOV 45.0f
+
+#define MIN_SPREAD 0.1f
+#define MAX_SPREAD 0.3f
+
+#define WALL_HEIGHT 2.0f
+
+#endif
