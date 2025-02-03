@@ -1,4 +1,7 @@
 # Lidar Game
+
+https://github.com/user-attachments/assets/351ebfd1-ca1e-4ae0-9f7c-9aaf2af9cf5a
+
 This game was made for a school project.
 The instructions were to create a game that runs on Linux with... :
 - C or C++ programming language
